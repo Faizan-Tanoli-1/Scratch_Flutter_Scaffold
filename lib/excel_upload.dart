@@ -6,6 +6,8 @@ import '';
 
 
 class StudentTable extends StatefulWidget {
+  const StudentTable({super.key});
+
   @override
   _StudentTableState createState() => _StudentTableState();
 }
